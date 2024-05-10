@@ -17,9 +17,9 @@ It covers these concepts:
 
 1. Clone the repository:
 
-   HTTPS: git clone https://github.com/Sharifa26/fruits.git
+   HTTPS: git clone https://github.com/Sharifa26/User-Onboard.git
    
-   SSH: git clone git@github.com:Sharifa26/fruits.git
+   SSH: git clone git@github.com:Sharifa26/User-Onboard.git
 
 2. Install dependencies: 
    
